@@ -86,7 +86,7 @@ export default function Home() {
       <div className="relative z-10 flex flex-col items-center justify-center min-h-screen text-white text-center">
         <h1 ref={logoRef} className="logo-text">AkuLagiBisnis</h1>
         <p className="typing-text mt-4">
-          We're launching something amazing. Stay tuned!
+          We&apos;re launching something amazing. Stay tuned!
         </p>
         <div className="animate-bounce text-6xl mt-8">
           🚀
